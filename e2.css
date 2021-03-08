@@ -1,0 +1,16 @@
+.este
+{
+	position: absolute;
+	text-align: center;
+	border-radius: 10px;
+	width: 25%;
+	height: 22%;
+	background-color: #FA5882;
+	top: 20%;
+	left: 35%;
+	
+}
+body
+{
+	background-color: #F6CECE;
+}
